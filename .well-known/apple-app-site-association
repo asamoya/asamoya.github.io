@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "7745ZNVEWG.com.kaname.surya.ios.hoge",
+                "paths": [ "*" ]
+            }
+       ]
+    }
+}
